@@ -16,4 +16,5 @@ int main() {
 	a.MyDelChr(t);
 	a.MyStrCmp(c);
 	MyString g =move(a);
+	MyString w = g;
 }
